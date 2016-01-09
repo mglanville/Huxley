@@ -2,7 +2,7 @@
 
 [![Huxley](https://huxley.apphb.com/huxley.png "Huxley")](https://huxley.apphb.com/)
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/jpsingleton/huxley?retina=true "Build Status")](https://ci.appveyor.com/project/jpsingleton/huxley)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/mglanville/huxley?retina=true "Build Status")](https://ci.appveyor.com/project/mglanville/huxley)
 
 [![AGPL](https://www.gnu.org/graphics/agplv3-155x51.png "AGPL")](LICENSE)
 
